@@ -1,0 +1,166 @@
+Files: 140  clean: 70  flagged: 70
+
+== FLAGGED ==
+Acherone_Script (6334 bytes)
+  domain: corvoboys.org
+Advanced_Screenshot (6404 bytes)
+  domain: corvoboys.org
+Apod (5929 bytes)
+  domain: corvoboys.org
+Apsattv (6143 bytes)
+  domain: corvoboys.org
+ArabicSavior (1709 bytes)
+  domain: www.tunisia-sat.com
+Archimede_M3U_Converter (6191 bytes)
+  domain: corvoboys.org
+AutoZap-Recovery (97211 bytes)
+  pattern: base64
+Backsncovers (6037 bytes)
+  domain: corvoboys.org
+Calendar (5927 bytes)
+  domain: corvoboys.org
+CiefpChannelHistory (5442 bytes)
+  pattern: \bpython\d?\s+-c\b
+CiefpSettingsStreamrelayPY2 (2948 bytes)
+  domain: Sat-Club.EU
+Command_Center (2054 bytes)
+  pattern: \bpython\d?\s+-c\b
+DDRSS_Reader (5959 bytes)
+  domain: corvoboys.org
+E2iPlayer (11711 bytes)
+  domain: 127.0.0.1
+  raw IP address URL
+EPGImport_99 (4566 bytes)
+  domain: corvoboys.org
+EmuInstaller (6472 bytes)
+  pattern: \bpython\d?\s+-c\b
+EnigmaPlay-Repo (6425 bytes)
+  pattern: wget[^|\n]*\|\s*(ba)?sh
+Filmon (5878 bytes)
+  domain: corvoboys.org
+FootOnsat (27209 bytes)
+  domain: api.github.com
+  pattern: \beval\b
+ForecaOne (8293 bytes)
+  domain: corvoboys.org
+Freearhey (5944 bytes)
+  domain: corvoboys.org
+FuryBiss (8523 bytes)
+  pattern: \bpython\d?\s+-c\b
+FurySkin (11226 bytes)
+  pattern: \bpython\d?\s+-c\b
+HasBahCa (5965 bytes)
+  domain: corvoboys.org
+Horoscope (5759 bytes)
+  domain: corvoboys.org
+Linuxsat_Panel (6508 bytes)
+  domain: corvoboys.org
+LukaTV (6522 bytes)
+  pattern: \bpython\d?\s+-c\b
+MovieBrowser (6275 bytes)
+  domain: corvoboys.org
+Multistalker_Pro_(EliEsat) (6771 bytes)
+  pattern: \bpython\d?\s+-c\b
+Multistalker_Pro_(biko) (6205 bytes)
+  pattern: \bpython\d?\s+-c\b
+MyStreamer (6525 bytes)
+  pattern: \bpython\d?\s+-c\b
+NeoBoot-Fury (8842 bytes)
+  pattern: \bpython\d?\s+-c\b
+NewVirtualKeyBoard (3310 bytes)
+  domain: www.tunisia-sat.com
+Parsa_Tv (6237 bytes)
+  domain: corvoboys.org
+RSILive (7385 bytes)
+  domain: corvoboys.org
+Radio80 (6068 bytes)
+  domain: corvoboys.org
+Radio_Git (6098 bytes)
+  domain: corvoboys.org
+RaedQuickSignal (7444 bytes)
+  domain: www.tunisia-sat.com
+Rai_Play (6104 bytes)
+  domain: corvoboys.org
+Revolution_Lite (5570 bytes)
+  domain: corvoboys.org
+Revolution_Pro (5541 bytes)
+  domain: corvoboys.org
+Revolution_XXX (5327 bytes)
+  domain: corvoboys.org
+Rss_Reader (5853 bytes)
+  domain: corvoboys.org
+SLwebcams (5410 bytes)
+  domain: corvoboys.org
+ScSearch (7180 bytes)
+  domain: corvoboys.org
+Send_Emm (4295 bytes)
+  pattern: base64
+ServerColoring-Fury (7050 bytes)
+  pattern: \bpython\d?\s+-c\b
+Softcam_Manager (5742 bytes)
+  domain: corvoboys.org
+Stalker_Portal_Converter (6064 bytes)
+  domain: corvoboys.org
+Streamproxy (6275 bytes)
+  domain: corvoboys.org
+SubExtractorLite (4585 bytes)
+  domain: api.github.com
+  pattern: \bpython\d?\s+-c\b
+TVGarden (5570 bytes)
+  domain: corvoboys.org
+  pattern: \bpython\d?\s+-c\b
+TelevideoRAI (6051 bytes)
+  domain: corvoboys.org
+TvDream (6086 bytes)
+  domain: corvoboys.org
+TvToM3u (5842 bytes)
+  domain: corvoboys.org
+Vavoo (10229 bytes)
+  domain: corvoboys.org
+WiFi_Manager (5789 bytes)
+  domain: corvoboys.org
+WireGuard_Vpn (3776 bytes)
+  pattern: \biptables\b
+  pattern: \bpython\d?\s+-c\b
+Worldcam (7657 bytes)
+  domain: corvoboys.org
+  pattern: \bpython\d?\s+-c\b
+XC_Forever (6130 bytes)
+  domain: corvoboys.org
+XXX_Plugin (6126 bytes)
+  domain: corvoboys.org
+Xstreamity (3139 bytes)
+  domain: www.tunisia-sat.com
+channel-emil-nabil (2858 bytes)
+  domain: 127.0.0.1
+  raw IP address URL
+channel-hazem-wahba (2814 bytes)
+  domain: 127.0.0.1
+  raw IP address URL
+channel-khaled (2774 bytes)
+  domain: 127.0.0.1
+  raw IP address URL
+channel-mnasr (2807 bytes)
+  domain: 127.0.0.1
+  raw IP address URL
+customchannelselection (5947 bytes)
+  pattern: \bpython\d?\s+-c\b
+ipaudiplus (1711 bytes)
+  domain: ipk.ath.cx
+  pattern: \bpython\d?\s+-c\b
+mmPicons (5757 bytes)
+  domain: corvoboys.org
+novalerStore (1839 bytes)
+  domain: ipk.ath.cx
+  pattern: \bpython\d?\s+-c\b
+
+== CLEAN ==
+AJPanel, Add_Symlink_Libssl, Aglare-FHD, Aglare_PLI, AutoBiss, AutoSub, CiefpBootlogo, CiefpBouquetUpdater, CiefpChannelManager, CiefpDishPointer, CiefpE2Converter, CiefpE2editor, CiefpEPGinfo, CiefpEPGshare, CiefpEasySetup, CiefpIPTVBouquets, CiefpKingSat, CiefpMojTvEPG, CiefpOpenDirectories, CiefpOpenSubtitles, CiefpOscamEditor, CiefpParabolaCZ, CiefpPiconManager, CiefpPicturePlayer, CiefpPlugins, CiefpRottenTomatoes, CiefpSRTplayer, CiefpSatelliteAnalyzer, CiefpSatelliteXmlEditor, CiefpScreenGrab, CiefpSelectSatellite, CiefpSettingsDownloader, CiefpSettingsStreamrelay, CiefpSettingsT2miAbertis, CiefpSettingsT2miAbertisOpenPLi, CiefpSfiles, CiefpSignalInfo, CiefpTMDBSearch, CiefpTvProgram, CiefpTvProgramA1HR, CiefpTvProgramSBB, CiefpTvProgramSK, CiefpTvTodayDE, CiefpVibes, CiefpVideoPlayer, CiefpWhitelistStreamrelay, CiefpXfiles, CiefpYouTube, CiefpsettingsMotor, CiefpsettingsPanel, EmilRemovePackage, IPAudioPro, Multistalker_Pro_(emilnabil), SimpleZooomPanel, SubsSupportPro, Subsupport_addon, TitloviBrowser, Transmission, WebCamE2PrenjSF, auto-dcw-key-add, bitrate, buttonpatcher, cacheflush, hisnmuslim, internet-speedtest, lukaatv-skin, netusagepro, novalerdownloader, quran, sherlockmod
+
+== OTHER DOMAINS ==
+127.0.0.1: E2iPlayer, channel-emil-nabil, channel-hazem-wahba, channel-khaled, channel-mnasr
+Sat-Club.EU: CiefpSettingsStreamrelayPY2
+api.github.com: FootOnsat, SubExtractorLite
+corvoboys.org: Acherone_Script, Advanced_Screenshot, Apod, Apsattv, Archimede_M3U_Converter, Backsncovers, Calendar, DDRSS_Reader, EPGImport_99, Filmon, ForecaOne, Freearhey, HasBahCa, Horoscope, Linuxsat_Panel, MovieBrowser, Parsa_Tv, RSILive, Radio80, Radio_Git, Rai_Play, Revolution_Lite, Revolution_Pro, Revolution_XXX, Rss_Reader, SLwebcams, ScSearch, Softcam_Manager, Stalker_Portal_Converter, Streamproxy, TVGarden, TelevideoRAI, TvDream, TvToM3u, Vavoo, WiFi_Manager, Worldcam, XC_Forever, XXX_Plugin, mmPicons
+ipk.ath.cx: ipaudiplus, novalerStore
+www.tunisia-sat.com: ArabicSavior, NewVirtualKeyBoard, RaedQuickSignal, Xstreamity
